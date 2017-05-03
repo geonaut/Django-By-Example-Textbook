@@ -6,6 +6,7 @@
 *.sqlite3
 
 app_2_venv/
-app_1_venv/django_test
 
 *.sublime-workspace
+
+app_1_venv/django_test/BOOK/
