@@ -15,4 +15,6 @@ This chapter starts off by setting up some custom tempalate tags, such as total 
 
 ## Chapter Four
 
+Chapter 4 makes extensive use of the Django authentication and login module, profile model and associated forms such as UserRegistration form. These are pretty well-developed modules, so mostly this is an exercise in routing between screens, and setting up a user dashboard. The exercise then moves on to moving the messaging module, to setup some overlay notifications, and finally, to OAuth registrations, using Facebook, Twitter and Google. These last require API keys and developer accounts, as well as dummy accounts for registration, so I didn't bother to connect to the APIs.
+
  
