@@ -5,7 +5,7 @@
 
 *.sqlite3
 
-app_2_venv/
+app_2_venv/bookmarks
 
 *.sublime-workspace
 
